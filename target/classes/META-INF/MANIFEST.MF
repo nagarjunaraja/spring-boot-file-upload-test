@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-file-upload-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nraja
+Implementation-Vendor-Id: com.nagarjuna
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-upload-test
+Created-By: Maven Integration for Eclipse
+
